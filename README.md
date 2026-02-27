@@ -29,6 +29,11 @@ This project performs Exploratory Data Analysis (EDA) on Diwali sales data to un
 - Uttar Pradesh, Maharashtra, and Karnataka contributed most to sales
 - Food, Clothing, and Electronics were top product categories
 
+## 📁 Project Structure
+Diwali-Sales-Analysis-Python/
+│── Diwali Sales Python Project.ipynb
+│── Diwali Sales Data.csv
+│── README.md
 
 
 ## 🚀 Outcome
