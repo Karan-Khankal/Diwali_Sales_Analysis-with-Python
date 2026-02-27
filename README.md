@@ -30,11 +30,12 @@ This project performs Exploratory Data Analysis (EDA) on Diwali sales data to un
 - Food, Clothing, and Electronics were top product categories
 
 ## 📁 Project Structure
+'''
 Diwali_Sales_Analysis-with-Python/
 │── Diwali Sales Python Project.ipynb
 │── Diwali Sales Data.csv
 │── README.md
-
+'''
 
 ## 🚀 Outcome
 This project demonstrates how Python can be used for data cleaning, analysis, and visualization to generate actionable business insights.
